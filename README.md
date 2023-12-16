@@ -1,4 +1,4 @@
-#supabase-demo-cors
+# supabase-demo-cors
 
 This is a repository for an app created by following the Supabase React guidehttps://supabase.com/docs/guides/getting-started/quickstarts/reactjs.
 
