@@ -1,8 +1,6 @@
-# React + Vite
+supabase-demo-cors
+This is a repository for an app created by following the Supabase React guidehttps://supabase.com/docs/guides/getting-started/quickstarts/reactjs.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+In addition to the code in the Supabase React Guide, it also has the code to deploy a Supabase Edge function with CORS enabled. The code for the function is taken from the Supabase CORS support guidehttps://supabase.com/docs/guides/functions/cors.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+The deployment procedure was executed following the Supabase Deployment Guidehttps://supabase.com/docs/guides/functions/deploy.
